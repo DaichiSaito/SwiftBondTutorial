@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SignUpVM.(isLoadingViewHidden.getter).(closure #1):SignUpVM.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "$0 != .Requesting">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
